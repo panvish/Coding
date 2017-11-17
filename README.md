@@ -1,4 +1,4 @@
-# IBM
+
 Skyline
 Input - Array of tuples (x,y,l) where x is a location on the x axis, y is height, l is length. Think of x,y,l as a rectangle.
 
